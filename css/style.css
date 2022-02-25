@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    opacity: 0.3;
+}
+p{
+    height: 500px;
+    padding: 20px;
+    overflow: scroll;
+    border: 2px solid red;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: justify;
+}
